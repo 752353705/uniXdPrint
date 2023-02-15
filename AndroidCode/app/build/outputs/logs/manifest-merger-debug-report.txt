@@ -1,0 +1,561 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+MERGED from [android-gif-drawable-release@1.2.23.aar] C:\Users\Administrator\.gradle\caches\transforms-3\cae3fb8a02690a740bc71345dab1aced\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:2:1-9:12
+MERGED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:2:1-21:12
+MERGED from [breakpad-build-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\dfab5e75380ad0a0cc6f4dc59bb9e6f8\transformed\jetified-breakpad-build-release\AndroidManifest.xml:2:1-9:12
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:2:1-275:12
+MERGED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:2:1-17:12
+MERGED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:20:1-37:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0d9c1ab0e87542ba382db148d96a3af\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0e2a45a9640a63570effe16849b28a4\transformed\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\870ac7c6ab1950dd8fa8e553dbfb34c0\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\8f68ef60f55aa64e04422847d955c2cf\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\f39dae7a2dde544c9e0965c6b38d3718\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\949813a1376507a3973d47f44942d12b\transformed\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.webkit:webkit:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\10b4b3586775a922c0c5e1dd95f64106\transformed\webkit-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:Xd-print] E:\github\uniXdPrint\AndroidCode\Xd-print\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\9c97282722fb613bc8c5f0fb5711e84a\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\627c99dc4cb456a31656a71eb75172a6\transformed\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\e353a99b3173ed584b5b292fd79e6d6a\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\0896e3d0b45cdf89c133e98609f31280\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\515dab43d74585da017e0d5a7a26ed97\transformed\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5f1414b854a699ca50f5583d93600df7\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\56d3436542761c87b3a7c38d1c2e3d4f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5b2b00e982f1215a847329e9d903a511\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\76ce4b0e4d2e7286e97250b1cf6504f3\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\94c4745ecd6aa2bded7c344d03d4593c\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\4e5300bb5d4f9951601e2dc0346c7b49\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\83e4d09894bf1e8044d797e19e86a870\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\ffc5c1a0fdfdfc25fcc5cac404201a56\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\423fcd1d1d4d9d018391409368bf7e95\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d475c31c17ec482474ad131ad49eb5b6\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\55e876484b1ced6e54c676545e3bf00e\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d69d5255d7a99b3b3007a077195cce2c\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\f6601588d73223bff16a8331a333d6be\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\504a0afdbac0dec691f2e5ddcd905e19\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d6fbba00347d4915e0efc7ef73dead3e\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\cb52c2915797ff6180165794ffb54461\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7539e767d7758b75cf0695674181ff0\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:6:5-11:39
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:7:5-12:39
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:7:5-12:39
+	android:largeScreens
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:8:9-36
+	android:smallScreens
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:9:9-37
+	android:resizeable
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:10:9-34
+	android:anyDensity
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:7:9-34
+uses-permission#android.permission.CAMERA
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:14:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:15:5-81
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:14:5-81
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:15:22-78
+uses-feature#android.hardware.camera
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:18:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:20:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:21:22-66
+application
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:24:5-87:19
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:167:5-273:19
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:167:5-273:19
+MERGED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
+MERGED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:5-35:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\949813a1376507a3973d47f44942d12b\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\949813a1376507a3973d47f44942d12b\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\94c4745ecd6aa2bded7c344d03d4593c\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\94c4745ecd6aa2bded7c344d03d4593c\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\4e5300bb5d4f9951601e2dc0346c7b49\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\4e5300bb5d4f9951601e2dc0346c7b49\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7539e767d7758b75cf0695674181ff0\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7539e767d7758b75cf0695674181ff0\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		ADDED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:29:18-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\94c4745ecd6aa2bded7c344d03d4593c\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:28:9-41
+	android:allowClearUserData
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:26:9-42
+	android:largeHeap
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:29:9-33
+	android:icon
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:27:9-38
+	android:usesCleartextTraffic
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:170:9-44
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:25:9-63
+activity#io.dcloud.PandoraEntry
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:33:9-55:20
+	android:hardwareAccelerated
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:37:13-47
+	android:windowSoftInputMode
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:38:13-55
+	android:configChanges
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:36:13-92
+	android:theme
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:34:13-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:hbuilder
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:39:13-45:29
+data
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:40:17-50
+	android:scheme
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:40:23-48
+	android:mimeType
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:47:23-49
+action#android.intent.action.VIEW
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:43:17-75
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:43:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:44:27-75
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.SEND
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:48:17-68
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:48:25-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:51:13-54:29
+action#android.intent.action.MAIN
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:52:17-68
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:53:27-74
+meta-data#dcloud_uninview_background
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:56:9-57:35
+	android:value
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:56:20-61
+activity#io.dcloud.PandoraEntryActivity
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:59:9-83:20
+	android:screenOrientation
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:65:13-45
+	android:launchMode
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:61:13-44
+	android:hardwareAccelerated
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:63:13-47
+	android:windowSoftInputMode
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:67:13-55
+	android:permission
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:64:13-89
+	android:configChanges
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:62:13-151
+	android:theme
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:66:13-47
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:60:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme: 
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:69:13-82:29
+meta-data#dcloud_appkey
+ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:84:9-86:64
+	android:value
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:86:13-61
+	android:name
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:85:13-41
+uses-sdk
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+MERGED from [android-gif-drawable-release@1.2.23.aar] C:\Users\Administrator\.gradle\caches\transforms-3\cae3fb8a02690a740bc71345dab1aced\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
+MERGED from [android-gif-drawable-release@1.2.23.aar] C:\Users\Administrator\.gradle\caches\transforms-3\cae3fb8a02690a740bc71345dab1aced\transformed\jetified-android-gif-drawable-release@1.2.23\AndroidManifest.xml:5:5-7:41
+MERGED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:7:5-9:41
+MERGED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:7:5-9:41
+MERGED from [breakpad-build-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\dfab5e75380ad0a0cc6f4dc59bb9e6f8\transformed\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
+MERGED from [breakpad-build-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\dfab5e75380ad0a0cc6f4dc59bb9e6f8\transformed\jetified-breakpad-build-release\AndroidManifest.xml:5:5-7:41
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:5:5-44
+MERGED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
+MERGED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:8:5-11:63
+MERGED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
+MERGED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0d9c1ab0e87542ba382db148d96a3af\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0d9c1ab0e87542ba382db148d96a3af\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0e2a45a9640a63570effe16849b28a4\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0e2a45a9640a63570effe16849b28a4\transformed\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\870ac7c6ab1950dd8fa8e553dbfb34c0\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\870ac7c6ab1950dd8fa8e553dbfb34c0\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\8f68ef60f55aa64e04422847d955c2cf\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\8f68ef60f55aa64e04422847d955c2cf\transformed\jetified-fresco-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\f39dae7a2dde544c9e0965c6b38d3718\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\f39dae7a2dde544c9e0965c6b38d3718\transformed\jetified-animated-gif-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\949813a1376507a3973d47f44942d12b\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\949813a1376507a3973d47f44942d12b\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.webkit:webkit:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\10b4b3586775a922c0c5e1dd95f64106\transformed\webkit-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.3.0] C:\Users\Administrator\.gradle\caches\transforms-3\10b4b3586775a922c0c5e1dd95f64106\transformed\webkit-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:Xd-print] E:\github\uniXdPrint\AndroidCode\Xd-print\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:Xd-print] E:\github\uniXdPrint\AndroidCode\Xd-print\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\9c97282722fb613bc8c5f0fb5711e84a\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\9c97282722fb613bc8c5f0fb5711e84a\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\627c99dc4cb456a31656a71eb75172a6\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\627c99dc4cb456a31656a71eb75172a6\transformed\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\e353a99b3173ed584b5b292fd79e6d6a\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\e353a99b3173ed584b5b292fd79e6d6a\transformed\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\0896e3d0b45cdf89c133e98609f31280\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\0896e3d0b45cdf89c133e98609f31280\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\6d6e532017af0c907cd34d38d04e17fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\515dab43d74585da017e0d5a7a26ed97\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\515dab43d74585da017e0d5a7a26ed97\transformed\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\d35f0010fbff61dfb15ae12685344215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\70c058259436dcd4c71d85461afd1b6a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5f1414b854a699ca50f5583d93600df7\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5f1414b854a699ca50f5583d93600df7\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\8ede10147567c2507cc51ace41c13ea6\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\56d3436542761c87b3a7c38d1c2e3d4f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\56d3436542761c87b3a7c38d1c2e3d4f\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c0d52683149a4f63c5e66613b9f51e2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5b2b00e982f1215a847329e9d903a511\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5b2b00e982f1215a847329e9d903a511\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\76ce4b0e4d2e7286e97250b1cf6504f3\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\76ce4b0e4d2e7286e97250b1cf6504f3\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\94c4745ecd6aa2bded7c344d03d4593c\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\94c4745ecd6aa2bded7c344d03d4593c\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\75cb0929a6f85c2da435fad4c201e57a\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\58c33f79541fa64793747c2f03ce017d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\4e5300bb5d4f9951601e2dc0346c7b49\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Administrator\.gradle\caches\transforms-3\4e5300bb5d4f9951601e2dc0346c7b49\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\5dc1b0d68d5be8d395af6b357c3240c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\eb3bd80f829817dc46cef00554f9b4ab\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\998ecad2e598076d0444e5b886cc28b2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\511e2a36f18b29fdf3f425e3962668f8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\83e4d09894bf1e8044d797e19e86a870\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\83e4d09894bf1e8044d797e19e86a870\transformed\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\ffc5c1a0fdfdfc25fcc5cac404201a56\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\ffc5c1a0fdfdfc25fcc5cac404201a56\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\d6b2c6310d0da332cb9475defea77305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b8e61f2d133f499e6198163cf2456f01\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b39e20052568115d5d6e20e605eabe6a\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\423fcd1d1d4d9d018391409368bf7e95\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\423fcd1d1d4d9d018391409368bf7e95\transformed\jetified-animated-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d475c31c17ec482474ad131ad49eb5b6\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d475c31c17ec482474ad131ad49eb5b6\transformed\jetified-animated-drawable-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\55e876484b1ced6e54c676545e3bf00e\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\55e876484b1ced6e54c676545e3bf00e\transformed\jetified-drawee-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d69d5255d7a99b3b3007a077195cce2c\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d69d5255d7a99b3b3007a077195cce2c\transformed\jetified-nativeimagefilters-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\f6601588d73223bff16a8331a333d6be\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\f6601588d73223bff16a8331a333d6be\transformed\jetified-imagepipeline-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\504a0afdbac0dec691f2e5ddcd905e19\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\504a0afdbac0dec691f2e5ddcd905e19\transformed\jetified-nativeimagetranscoder-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d6fbba00347d4915e0efc7ef73dead3e\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\d6fbba00347d4915e0efc7ef73dead3e\transformed\jetified-imagepipeline-base-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\cb52c2915797ff6180165794ffb54461\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\Administrator\.gradle\caches\transforms-3\cb52c2915797ff6180165794ffb54461\transformed\jetified-fbcore-1.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7539e767d7758b75cf0695674181ff0\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Administrator\.gradle\caches\transforms-3\f7539e767d7758b75cf0695674181ff0\transformed\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:11:9-60
+	android:targetSdkVersion
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+		ADDED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+		INJECTED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:15:5-67
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:15:5-67
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:16:5-79
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:16:5-79
+MERGED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [autoreplyprint.aar] C:\Users\Administrator\.gradle\caches\transforms-3\98816c85748176a437b493e36f2ab69c\transformed\jetified-autoreplyprint\AndroidManifest.xml:19:22-83
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:22:5-91
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:22:22-88
+uses-permission#com.vivo.notification.permission.BADGE_ICON
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:24:22-80
+queries
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:26:5-35:15
+intent#action:name:android.intent.action.MAIN
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:27:9-29:18
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:30:9-34:18
+activity#io.dcloud.feature.nativeObj.photoview.PhotoActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:179:9-185:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:184:13-47
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:183:13-38
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:182:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:181:13-63
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:185:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:180:13-79
+activity#io.dcloud.WebAppActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:186:9-195:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:191:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:192:13-44
+	android:hardwareAccelerated
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:189:13-47
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:195:13-55
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:188:13-144
+	android:icon
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:190:13-51
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:194:13-47
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:187:13-52
+activity#io.dcloud.ProcessMediator
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:196:9-200:75
+	android:excludeFromRecents
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:198:13-46
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:199:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:200:13-72
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:197:13-53
+activity#io.dcloud.WebviewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:201:9-207:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:204:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:206:13-52
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:203:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:205:13-51
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:202:13-53
+activity#com.dmcbig.mediapicker.PickerActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:210:9-215:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:215:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:213:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:212:13-59
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:214:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:211:13-65
+activity#com.dmcbig.mediapicker.PreviewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:216:9-221:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:221:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:219:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:218:13-59
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:220:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:217:13-66
+provider#io.dcloud.common.util.DCloud_FileProvider
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:224:9-232:20
+	android:grantUriPermissions
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:228:13-47
+	android:authorities
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:226:13-67
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:227:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:225:13-69
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:229:13-231:64
+	android:resource
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:231:17-61
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:230:17-67
+meta-data#android.max_aspect
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:239:9-241:35
+	android:value
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:241:13-32
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:240:13-46
+activity#io.dcloud.feature.gallery.imageedit.IMGEditActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:243:9-248:63
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:248:13-60
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:246:13-37
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:245:13-74
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:247:13-50
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:244:13-79
+activity#io.dcloud.sdk.activity.WebViewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:251:9-256:55
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:254:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:256:13-52
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:253:13-37
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:255:13-51
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:252:13-66
+service#io.dcloud.sdk.base.service.DownloadService
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:258:9-261:72
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:260:13-37
+	android:permission
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:261:13-69
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:259:13-70
+provider#io.dcloud.sdk.base.service.provider.DCloudAdFileProvider
+ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:263:9-271:20
+	android:grantUriPermissions
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:267:13-47
+	android:authorities
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:265:13-67
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:266:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\39998b2f03c51f43ec944c9e68adefb8\transformed\jetified-lib.5plus.base-release\AndroidManifest.xml:264:13-84
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\github\uniXdPrint\AndroidCode\app\src\main\AndroidManifest.xml:2:1-89:12 reason: io.dcloud.base requested WRITE_EXTERNAL_STORAGE
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:13:22-73
+uses-permission#freemme.permission.msa
+ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:5-62
+	android:name
+		ADDED from [oaid_sdk_1.0.25.aar] C:\Users\Administrator\.gradle\caches\transforms-3\192e6dfcc59503fe11aeeee13dc24bda\transformed\jetified-oaid_sdk_1.0.25\AndroidManifest.xml:15:22-59
+receiver#com.taobao.weex.WXGlobalEventReceiver
+ADDED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [uniapp-v8-release.aar] C:\Users\Administrator\.gradle\caches\transforms-3\b14444e35c55b6e75ca6190c0f63d029\transformed\jetified-uniapp-v8-release\AndroidManifest.xml:31:13-65

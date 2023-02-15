@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\github\\uniXdPrint\\AndroidCode\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_push.png.flat",
+        "source": "E:\\github\\uniXdPrint\\AndroidCode\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    },
+    {
+        "merged": "E:\\github\\uniXdPrint\\AndroidCode\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "E:\\github\\uniXdPrint\\AndroidCode\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\github\\uniXdPrint\\AndroidCode\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "E:\\github\\uniXdPrint\\AndroidCode\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    }
+]

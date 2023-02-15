@@ -1,0 +1,14 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Xd-print",
+          "class": "com.example.xd_print.XdPrint"
+        }
+      ]
+    }
+  ]
+}
